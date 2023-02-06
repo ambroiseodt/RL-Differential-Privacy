@@ -9,5 +9,8 @@ Our contributions are two folds. (i) We propose central differentially private v
 Report with our contributions to find [here](https://github.com/AmbroiseOdonnat/RL-Differential-Privacy/blob/main/report.pdf).
 
 ## Code
-Python implementation of our experiments to find [here](https://github.com/AmbroiseOdonnat/RL-Differential-Privacy/blob/main/report.pdf).
+Python implementation of our experiments to find below:
+1. [Classic DQN](https://github.com/AmbroiseOdonnat/RL-Differential-Privacy/blob/main/main_DQN.ipynb)
+2. [DP-SGD DQN](https://github.com/AmbroiseOdonnat/RL-Differential-Privacy/blob/main/main_DQN_DP.ipynb)
+3. [LDP DQN](https://github.com/AmbroiseOdonnat/RL-Differential-Privacy/blob/main/main_DQN_LDP.ipynb)
 
