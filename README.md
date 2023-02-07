@@ -11,6 +11,9 @@ Report with our contributions to find [here](https://github.com/AmbroiseOdonnat/
 ## Code
 Python implementation of our experiments to find below:
 1. [Classic DQN](https://github.com/AmbroiseOdonnat/RL-Differential-Privacy/blob/main/main_DQN.ipynb)
-2. [DP-SGD DQN](https://github.com/AmbroiseOdonnat/RL-Differential-Privacy/blob/main/main_DQN_DP.ipynb)
-3. [LDP DQN](https://github.com/AmbroiseOdonnat/RL-Differential-Privacy/blob/main/main_DQN_LDP.ipynb)
+2. [Classic REINFORCE](https://github.com/AmbroiseOdonnat/RL-Differential-Privacy/blob/main/main_REINFORCE.ipynb)
+3. [DP-SGD DQN](https://github.com/AmbroiseOdonnat/RL-Differential-Privacy/blob/main/main_DQN_DP.ipynb)
+4. [DP-SGD REINFORCE](https://github.com/AmbroiseOdonnat/RL-Differential-Privacy/blob/main/main_REINFORCE_DP.ipynb)
+5. [LDP DQN](https://github.com/AmbroiseOdonnat/RL-Differential-Privacy/blob/main/main_DQN_LDP.ipynb)
+6. [LDP REINFORCE](https://github.com/AmbroiseOdonnat/RL-Differential-Privacy/blob/main/main_REINFORCE_LDP.ipynb)
 
